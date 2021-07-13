@@ -3,7 +3,7 @@
 
 tambahkan sebuah element div dengan id="api-visitor"
 ```
-<div id="api-berita">
+<div id="api-visitor">
     
 </div>
 ```
@@ -16,7 +16,7 @@ tambahkan script dengan source https://akbarmaliki.github.io/portofolio/apivisit
 
 Code lengkap : 
 ```
-<div id="api-berita">
+<div id="api-visitor">
     
 </div>
 <script src="https://akbarmaliki.github.io/portofolio/apivisitor.min.js"> 
